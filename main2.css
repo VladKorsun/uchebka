@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.conteiner{
+    background-color: cadetblue;
+    width: 1200px;
+}
+.leftbox{
+    background-color: gray;
+    width: 200px;
+}
+.box{
+    background-color: green;
+    width: 1000px;
+}
